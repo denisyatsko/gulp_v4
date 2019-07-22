@@ -1,0 +1,8 @@
+1) Install node.js
+2) npm -v and node -v
+3) npm i -g gulp npm-check-updates
+4) gulp -v
+5) ncu
+6) ncu -a
+7) npm i
+8) gulp ;)
